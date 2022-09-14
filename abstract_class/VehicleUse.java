@@ -1,0 +1,6 @@
+package abstract_class;
+
+public class VehicleUse {
+
+	
+}
